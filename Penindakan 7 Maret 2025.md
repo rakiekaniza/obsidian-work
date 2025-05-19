@@ -1,0 +1,34 @@
+- Assessment awal pengembang baru
+	- Ada kurang lebih 45 bug yang belum di selesaikan
+	- Git sudah diganti ke punya pengembang baru
+- [Issue Modul Rawan Kejahatan](https://docs.google.com/document/d/1QqhAFgDrRsKQi7MWcLuGr6JLNkB6hxKlZ62ZQod28eo/edit?tab=t.0)
+	- Bug ketika mengedit informasi awal, ada produk nya yang hilang
+	- Pengisian produk di informasi awal ada perubahan dibuat menjadi per komoditi
+	- Untuk data produk yang hilang, akan dibukakan akses untuk dilengkapi oleh UPT
+	- Untuk export data rawan kejahatan yang lebih dari satu jenis pelanggaran masih dalam satu baris. Seharusnya setiap jenis pelanggaran pada satu kasus berbeda baris.
+	- Tanggal submit belum ditambahkan di Laporan Hasil Uji
+	- Laporan kerawanan akurat belum sesuai dengan view yang sudah dibuat
+	- Angka pada grafik Temuan Rawan Kejahatan per Bulan belum sesuai, bisa menggunakan data pada view yang sudah dibuat
+	- Tombol simpan di form rawan kejahatan belum ada di akun UPT
+	- Hasil export Laporan Hasil Uji dan Laporan Keterangan Ahli yang sudah difilter belum sesuai, masih menampilkan data yang seharusnya tidak tampil
+	- Sebelumnya ada error pada script sehingga data yang sudah di submit belum tersimpan di DB [data yang hilang](https://docs.google.com/spreadsheets/d/14XNrBlueJUwMHLIJ75MOuYBaxgqckyMZ0Algb-CzZOk/edit?gid=0#gid=0)
+	- Untuk gambar dari data yang hilang akan di exercise oleh pengembang
+- Modul Digital Forensik
+	- Inti dari modul ini adalah untuk mengefisiensikan permohonan forensik digital oleh UPT
+	- Ada 3 role, Admin UPT, Kepala Laboratorium, dan Petugas Laboratorium
+	- Kaji ulang oleh kepala lab untuk melihat apakah permohonan dapat difasilitasi sesuai dengan permohonan dan beban kerja lab forensi digital
+	- Jika disetujui oleh Kalab, permohonan dilanjutkan ke Penugasan PPBE dan Penugasan Akuisisi
+	- Penugasan PPBE dan Penugasan Akuisisi bisa orang yang sama
+	- Petugas PPBE tidak bisa menjadi Petugas Analisis
+	- Petugas PPBE yang ditunjuk melakukan input data, contoh BAST sudah ada
+	- Nomor barang bukti auto increment sesuai kategori perangkat nya
+	- Petugas akuisisi menginputkan ada akuisisi
+	- Pengembalian barang bukti bisa satuan atau sekaligus
+	- Setelah akuisisi dilakukan analisa oleh petugas siber
+	- Di aplikasi form dan alur Permohonan Digital Forensik sudah dibuat, tetapi masih belum sesuai
+	- Status di daftar permohonan seharusnya berubah sesuai alur yang sudah dibuat
+	- Di bawah status ditambahkan catatan yang dapat diakses dengan cepat
+	- Kepala Lab tidak dapat mengedit data dari UPT, hanya penugasan
+	- Setelah alur disesikan, ditambahkan tabel atau grafik yang menampilkan beban kerja masing-masing petugas
+	- Pengurutan daftar permohonan secara descending berdasarkan tanggal submit
+- Pertemuan **review hasil perbaikan** dan **perubahan tema** ditargetkan selesai pada rapat [[Penindakan 12 Maret 2025]]

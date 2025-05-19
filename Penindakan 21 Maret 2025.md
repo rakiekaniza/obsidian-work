@@ -1,0 +1,23 @@
+- Target penyelesaian perbaikan aplikasi penindakan adalah sebelum lebaran
+- Link selain penyidikan sudah tidak muncul di akun dengan role penyidikan
+- ==Dashboard informasi dihilangkan saja==
+- ==Pada input select unit belum ada pilihan Direktorat Penyidikan==
+- Data pada excel yang ditarik ada perbedaan jumlah dengan yang ada di aplikasi
+- Untuk Laporan Kemajuan Penyidikan seharusnya hanya untuk tahun, tidak ada pilihan tanggalnya
+- Untuk kasus yang carry over adalah yang kasus belum sampai tahap 2
+- Form barang bukti belum sesuai dengan tarikan data
+- Contoh kasus yang tarikan data dan aplikasi berbeda adalah dari balai payakumbuh
+- ==Nama PPBB yang tersimpan ketika diupdate berbeda dengan yang diinput==
+- ==PPNS Anggota dapat diisi sama dengan PPNS Utama==
+- ==Unit Kerja akan disamakan dengan yang terbaru==
+- Pilihan PPNS Anggota bisa memilih semua user
+- ==Sorting Tanggal Laporan Kejadian diganti menjadi dari yang terbaru==
+- ==Penambahan kolom untuk menginputkan nomor sampel SIPT di tambah/import Barang Bukti==
+- Untuk data yang ditambahkan jika sudah ada data yang sama maka data sebelumnya di replace
+- Data yang ditarik dari SIPT hanya kesimpulan sampel
+- Nomor sampel sipt diinput untuk masing-masing barang bukti
+- Dashboard Penyidikan disamakan dengan yang di RHPK dengan menggunakan view yang sudah dibuatkan
+- Untuk dashboard carry over belum ada view nya
+- Penghapusan perkara sekarang mengajukan ke pusdatin
+- Penambahan hapus perkara dapat diajukan untuk pengembangan tahun 2025
+- Tanggal 14 ditargetkan untuk dideploy ke production

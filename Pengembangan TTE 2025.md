@@ -1,0 +1,53 @@
+Spesifikasi:
+- Implementasi SSO (Single Sign On)
+- Sistem notifikasi untuk administrator TTE Gateway
+	- ==total tte gagal > 10 berturut==
+	- ==tte gagal di satu aplikasi > 5 berturut==
+	- ==daftar user yang akan expired dalam 30 hari (mingguan)==  
+- Penyempurnaan API TTE Gateway
+	- ==proses tte tanpa pengecekan status kadaluarsa terlebih dahulu, tte dicek saat proses di esign client saja==
+- Redesign TTE Gateway
+	- Penyempurnaan filtering dan pencarian
+	- Penyempurnaan manajemen aplikasi
+		- ==Penambahan link aplikasi==
+		- ==Penambahan whitelist ip aplikasi tanpa mengakses server==
+	- Penyempurnaan manajemen user
+		- ==Jika mengedit user tanpa mengubah password, akun tidak bisa digunakan login==
+		- ==Menambah pilihan akses transaksi untuk semua unit==
+		- ==Untuk unit yang bisa diakses sesuai mapping==
+		- ==NIP tidak perlu ditentukan jumlah karakternya, untuk polisi==
+	- Pengembangan manajemen unit
+		- ==Integrasi data unit dari satu data==
+		- ==Pengembangan menu untuk mapping unit==
+- Pembuatan Subsite TTE beserta manajemen konten nya
+	- Pengembangan menu pengumuman
+	- Pengembangan menu validasi dokumen yang sudah di TTE
+	- Pengembangan menu berita
+	- Pengembangan menu repositori==, dokumen yang ditampilkan berdasarkan hak akses==
+		- ==Manual book==
+		- ==PIA==
+		- ==Formulir==
+		- ==Link embed youtube==
+	- Pengembangan menu Statistik TTE
+	- Pengembangan menu link terkait
+	- Pengembangan menu FAQ
+- Penerapan Two Factor Authentication untuk login user
+- Penambahan Log Audit Trail
+- ~~Segel elektronik~~
+
+Layout homepage TTE:
+- Pengumuman
+- Search
+- Artikel
+	- Populer
+	- Terbaru
+- Statistik: jumlah aplikasi terintegrasi, pegawai yang memiliki tte
+- Informasi
+	- Alur pendaftaran
+	- Alur perpanjangan
+	- Statistik Detail
+	- Daftar Aplikasi terintegrasi
+	- Struktur organisasi
+- Aplikasi terkait
+	- ITSM
+	- Portal AMS

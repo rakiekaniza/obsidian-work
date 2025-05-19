@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "859d2122abc978d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc0414f56e3a0243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc4f85a11335a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Penindakan 16 Mei 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Penindakan 16 Mei 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6f7015b7fe81f89",
+    "type": "split",
+    "children": [
+      {
+        "id": "774b8f506d10b20c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7b243fe410115a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b6b20692c2ff193",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "12bcaf119ce29823",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f1b780266bbce6d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d142e81237abc997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4050539804aa1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Penindakan 18 Maret 2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Penindakan 18 Maret 2025"
+            }
+          },
+          {
+            "id": "3e7768db4c55f09c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Penindakan 18 Maret 2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Penindakan 18 Maret 2025"
+            }
+          },
+          {
+            "id": "ae4a4f510602d134",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f64ede8d295f3998",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "New Aero 25 April 2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of New Aero 25 April 2025"
+            }
+          },
+          {
+            "id": "c194418a947409d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7cc4f85a11335a65",
+  "lastOpenFiles": [
+    "Wawancara Lemhanmas 7 Mei 2025.md",
+    "New Aero 25 April 2025.md",
+    "Penindakan 23 April 2025.md",
+    "Workshop Satusehat 17 April 2025.md",
+    "Penindakan 15 April 2025.md",
+    "Pengembangan TTE 2025.md",
+    "Penindakan 16 Mei 2025.md",
+    "Penindakan 7 Maret 2025.md",
+    "Penindakan 18 Maret 2025.md",
+    "Penindakan 21 Maret 2025.md",
+    "Untitled.md",
+    "Pasted image 20250318103153.png",
+    "Penindakan 12 Maret 2025.md",
+    "Kerjasama dengan BPJS.md",
+    "data.md",
+    "Tanggal.md",
+    "Welcome.md"
+  ]
+}
