@@ -11,9 +11,19 @@
             "id": "7cc4f85a11335a65",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7b5e9a5175151838",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Penindakan 16 Mei 2025.md",
+                "file": "Penindakan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +38,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Penindakan 16 Mei 2025"
+              "title": "Penindakan"
+            }
+          },
+          {
+            "id": "3272952b1b6625d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Aero 25 April 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "New Aero 25 April 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Penindakan 16 Mei 2025.md",
+                "file": "New Aero 25 April 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Penindakan 16 Mei 2025"
+              "title": "Outline of New Aero 25 April 2025"
             }
           },
           {
@@ -189,20 +224,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f64ede8d295f3998",
+  "active": "3272952b1b6625d7",
   "lastOpenFiles": [
     "Wawancara Lemhanmas 7 Mei 2025.md",
-    "New Aero 25 April 2025.md",
-    "Penindakan 23 April 2025.md",
     "Workshop Satusehat 17 April 2025.md",
-    "Penindakan 15 April 2025.md",
+    "Penindakan.md",
+    "New Aero 25 April 2025.md",
     "Pengembangan TTE 2025.md",
+    "TTE.md",
+    "Pasted image 20250318103153.png",
     "Penindakan 16 Mei 2025.md",
+    "Penindakan 23 April 2025.md",
+    "Penindakan 15 April 2025.md",
     "Penindakan 7 Maret 2025.md",
     "Penindakan 18 Maret 2025.md",
     "Penindakan 21 Maret 2025.md",
-    "Untitled.md",
-    "Pasted image 20250318103153.png",
     "Penindakan 12 Maret 2025.md",
     "Kerjasama dengan BPJS.md",
     "data.md",
