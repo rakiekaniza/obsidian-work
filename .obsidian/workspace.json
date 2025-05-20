@@ -152,17 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Aero 25 April 2025.md",
+                "file": "Penindakan 16 Mei 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Aero 25 April 2025"
+              "title": "Outline of Penindakan 16 Mei 2025"
             }
           },
           {
-            "id": "c194418a947409d5",
+            "id": "191f34eff8a0d25d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cc4f85a11335a65",
+  "active": "f64ede8d295f3998",
   "lastOpenFiles": [
     "Wawancara Lemhanmas 7 Mei 2025.md",
     "New Aero 25 April 2025.md",
