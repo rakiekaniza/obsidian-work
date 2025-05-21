@@ -7,4 +7,4 @@
 - [[Penindakan 15 April 2025]]
 - [[Penindakan 23 April 2025]]
 - [[Penindakan 16 Mei 2025]]
-- 
+- [[Penindakan Juni 2025]]
