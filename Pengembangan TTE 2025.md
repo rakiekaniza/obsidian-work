@@ -1,10 +1,11 @@
 Tags: [[TTE]]
+
 Spesifikasi:
 - ~~Implementasi SSO (Single Sign On)~~
 - Sistem notifikasi untuk administrator TTE Gateway
 	- ==total tte gagal > 10 berturut==
 	- ==tte gagal di satu aplikasi > 5 berturut==
-	- ==daftar user yang akan expired dalam 30 hari (mingguan)==  
+	- ==daftar user yang akan expired dalam 30 hari (mingguan)==
 - Penyempurnaan API TTE Gateway
 	- ==proses tte tanpa pengecekan status kadaluarsa terlebih dahulu, tte dicek saat proses di esign client saja==
 - Redesign TTE Gateway
