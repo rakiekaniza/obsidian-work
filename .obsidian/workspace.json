@@ -11,10 +11,24 @@
             "id": "7cc4f85a11335a65",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "EPSS 26 Mei 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EPSS 26 Mei 2025"
             }
           },
           {
@@ -89,8 +103,7 @@
               "title": "Pengembangan TTE 2025"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pengembangan TTE 2025.md",
+                "file": "EPSS 26 Mei 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pengembangan TTE 2025"
+              "title": "Outline of EPSS 26 Mei 2025"
             }
           },
           {
@@ -248,11 +261,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2e5fcaa9fb745c2",
+  "active": "7cc4f85a11335a65",
   "lastOpenFiles": [
+    "EPSS 26 Mei 2025.md",
+    "Pengembangan TTE 2025.md",
     "Penindakan.md",
     "Rapat Lainnya.md",
-    "Pengembangan TTE 2025.md",
     "TTE.md",
     "New Aero 25 April 2025.md",
     "Wawancara Lemhanmas 7 Mei 2025.md",
