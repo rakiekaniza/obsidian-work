@@ -11,7 +11,6 @@ Tags: [[Penindakan]]
 - ==Format Template import excel Patroli Siber dibuat generate dari data UPT, admin dari siber hanya mengisi angka nya saja==
 **Digital Forensik**
 - ==Catatan kepala lab dimunculkan pada akun UPT dan Kepala Lab  dalam bentuk pop up==
-![[Pasted image 20250318103153.png]]
 - Surat Dinas Permohonan diganti namanya menjadi Surat Permohonan
 - Delete file dihilangkan
 - Untuk Tambah Dokumen Serah Terima tidak perlu checklist karena semua barang akan dikirimkan ke PPBE
