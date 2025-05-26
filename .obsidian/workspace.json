@@ -160,95 +160,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f1b780266bbce6d4",
     "type": "split",
-    "children": [
-      {
-        "id": "d142e81237abc997",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa4050539804aa1d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Penindakan 18 Maret 2025.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Penindakan 18 Maret 2025"
-            }
-          },
-          {
-            "id": "3e7768db4c55f09c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Penindakan 18 Maret 2025.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Penindakan 18 Maret 2025"
-            }
-          },
-          {
-            "id": "ae4a4f510602d134",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "f64ede8d295f3998",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "EPSS 26 Mei 2025.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of EPSS 26 Mei 2025"
-            }
-          },
-          {
-            "id": "191f34eff8a0d25d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ],
-        "currentTab": 4
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
