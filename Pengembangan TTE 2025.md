@@ -1,3 +1,4 @@
+Tags: [[TTE]]
 Spesifikasi:
 - Implementasi SSO (Single Sign On)
 - Sistem notifikasi untuk administrator TTE Gateway
@@ -31,7 +32,7 @@ Spesifikasi:
 	- Pengembangan menu Statistik TTE
 	- Pengembangan menu link terkait
 	- Pengembangan menu FAQ
-- Penerapan Two Factor Authentication untuk login user
+- ~~Penerapan Two Factor Authentication untuk login user~~
 - Penambahan Log Audit Trail
 - ~~Segel elektronik~~
 
@@ -51,5 +52,3 @@ Layout homepage TTE:
 - Aplikasi terkait
 	- ITSM
 	- Portal AMS
-
-[[TTE]]

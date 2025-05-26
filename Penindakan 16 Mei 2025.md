@@ -1,3 +1,4 @@
+Tags: [[Penindakan]]
 - Masing-masing unit sudah menyampaikan usulan pengembangan
 - Untuk data intelijen yang hilang belum ketemu
 - Pengembangan dashboard masih menunggu keputusan dari perencanaan, apakah mau dilakukan di bcc atau di aplikasi penindakan

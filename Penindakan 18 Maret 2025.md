@@ -1,13 +1,4 @@
-Pusat Data dan Informasi Obat dan Makanan Pusdatin 22 is inviting you to a scheduled Zoom meeting.
-
-Topic: Pembahasan Aplikasi Penindakan
-Time: Mar 18, 2025 10:00 AM Bangkok
-Join Zoom Meeting
-https://zoom.us/j/94087722393?pwd=mi8EhZCkVXDa5uuV0eYLNVTZ8smSsW.1
-
-Meeting ID: 940 8772 2393
-Passcode: penindakan
-
+Tags: [[Penindakan]]
 **Profiling**
 - Tanggal kirim sudah disesuaikan dengan tanggal input
 - Tanggal yang digunakan untuk penghitungan profiling adalah tanggal submit

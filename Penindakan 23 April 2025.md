@@ -1,3 +1,4 @@
+Tags: [[Penindakan]]
 Pembukaan
 - Rapat pagi ini membahas progres perbaikan aplikasi penindakan dan penyesuaian nomenklatur unit yang berubah
 Progres Implementasi Modul Cegah Tangkal dan Intelijen

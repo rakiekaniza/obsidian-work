@@ -1,3 +1,4 @@
+Tags: [[Penindakan]]
 - Assessment awal pengembang baru
 	- Ada kurang lebih 45 bug yang belum di selesaikan
 	- Git sudah diganti ke punya pengembang baru

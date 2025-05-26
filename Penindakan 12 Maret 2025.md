@@ -1,3 +1,4 @@
+Tags: [[Penindakan]]
 Cegah Tangkal
 - Isu dari list google docs sduah diselesaikan dan diupdate ke dev
 - Untuk user di dev dapat menggunakan akun eksisting

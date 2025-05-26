@@ -1,3 +1,4 @@
+Tags: [[Penindakan]]
 - Target penyelesaian perbaikan aplikasi penindakan adalah sebelum lebaran
 - Link selain penyidikan sudah tidak muncul di akun dengan role penyidikan
 - ==Dashboard informasi dihilangkan saja==
