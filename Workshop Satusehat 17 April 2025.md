@@ -1,3 +1,4 @@
+Tags: [[ADKLS]]
 - BPOM bisa mengakses data PBF melalui satusehat
 Paparan E-Was
 - Periode pelaporan distribusi di ewas perbulan

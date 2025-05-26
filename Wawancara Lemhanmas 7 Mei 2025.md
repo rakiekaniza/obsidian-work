@@ -1,3 +1,4 @@
+Tags: [[ADKLS]]
 - Tujuannya adalah mengumpulkan data terkait bahan baku industri farmasi
 - Farmasi di indonesia 75% bahan baku nya adalah impor
 - Pengimpor tertinggi adalah china dan india

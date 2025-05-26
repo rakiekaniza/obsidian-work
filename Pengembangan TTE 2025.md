@@ -1,6 +1,6 @@
 Tags: [[TTE]]
 Spesifikasi:
-- Implementasi SSO (Single Sign On)
+- ~~Implementasi SSO (Single Sign On)~~
 - Sistem notifikasi untuk administrator TTE Gateway
 	- ==total tte gagal > 10 berturut==
 	- ==tte gagal di satu aplikasi > 5 berturut==
@@ -34,7 +34,7 @@ Spesifikasi:
 	- Pengembangan menu FAQ
 - ~~Penerapan Two Factor Authentication untuk login user~~
 - Penambahan Log Audit Trail
-- ~~Segel elektronik~~
+- Segel elektronik
 
 Layout homepage TTE:
 - Pengumuman
