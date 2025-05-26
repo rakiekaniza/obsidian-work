@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "3272952b1b6625d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Penindakan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Penindakan"
-            }
-          },
-          {
             "id": "a2e5fcaa9fb745c2",
             "type": "leaf",
             "state": {
@@ -103,7 +79,8 @@
               "title": "Pengembangan TTE 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +159,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cc4f85a11335a65",
+  "active": "a2e5fcaa9fb745c2",
   "lastOpenFiles": [
     "Penindakan.md",
     "EPSS 26 Mei 2025.md",
