@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penindakan 15 April 2025.md",
+                "file": "Template/{{date}}.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Penindakan 15 April 2025"
+              "title": "{{date}}"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Penindakan 15 April 2025.md",
+                "file": "Template/{{date}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Penindakan 15 April 2025"
+              "title": "Backlinks for"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Penindakan 15 April 2025.md",
+                "file": "Template/{{date}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Penindakan 15 April 2025"
+              "title": "Outgoing links from"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Penindakan 15 April 2025.md",
+                "file": "Template/{{date}}.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Penindakan 15 April 2025"
+              "title": "Outline of"
             }
           }
         ]
@@ -190,24 +190,27 @@
   },
   "active": "7cc4f85a11335a65",
   "lastOpenFiles": [
-    "Penindakan 12 Maret 2025.md",
-    "Penindakan 7 Maret 2025.md",
-    "Penindakan 18 Maret 2025.md",
-    "Penindakan 16 Mei 2025.md",
-    "Penindakan 15 April 2025.md",
+    "Rapat/Penindakan 7 Maret 2025.md",
+    "Template/{{date}}.md",
+    "Rapat/Pasted image 20250526093603.png",
+    "Rapat/EPSS 26 Mei 2025.md",
+    "Rapat/Pasted image 20250526092043.png",
+    "Rapat/Penindakan 15 April 2025.md",
+    "Rapat",
+    "Template",
+    "Rapat/Penindakan 12 Maret 2025.md",
+    "Rapat/Penindakan 18 Maret 2025.md",
+    "Rapat/Penindakan 16 Mei 2025.md",
     "Pengembangan TTE 2025.md",
     "Penindakan.md",
-    "Workshop Satusehat 17 April 2025.md",
-    "Wawancara Lemhanmas 7 Mei 2025.md",
+    "Rapat/Workshop Satusehat 17 April 2025.md",
+    "Rapat/Wawancara Lemhanmas 7 Mei 2025.md",
     "TTE.md",
     "Rapat Lainnya.md",
-    "New Aero 25 April 2025.md",
-    "EPSS 26 Mei 2025.md",
-    "Penindakan 23 April 2025.md",
-    "Penindakan 21 Maret 2025.md",
-    "Pasted image 20250526093603.png",
-    "Pasted image 20250526093308.png",
-    "Pasted image 20250526092043.png",
+    "Rapat/New Aero 25 April 2025.md",
+    "Rapat/Penindakan 23 April 2025.md",
+    "Rapat/Penindakan 21 Maret 2025.md",
+    "Rapat/Pasted image 20250526093308.png",
     "Pasted image 20250318103153.png",
     "Kerjasama dengan BPJS.md",
     "data.md",
