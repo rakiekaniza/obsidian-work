@@ -1,0 +1,5 @@
+{
+  "folder": "Catatan Harian",
+  "template": "Template/{{date}}",
+  "autorun": true
+}
