@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-06-02.md",
+                "file": "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-02"
+              "title": "Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catatan Harian/2025-06-02.md",
+                "file": "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-02"
+              "title": "Backlinks for Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catatan Harian/2025-06-02.md",
+                "file": "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-06-02"
+              "title": "Outgoing links from Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catatan Harian/2025-06-02.md",
+                "file": "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-02"
+              "title": "Outline of Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM"
             }
           }
         ]
@@ -190,8 +190,10 @@
   },
   "active": "7cc4f85a11335a65",
   "lastOpenFiles": [
-    "Catatan Harian/2025-05-28.md",
     "Catatan Harian/2025-06-02.md",
+    "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
+    "Laporan",
+    "Catatan Harian/2025-05-28.md",
     "Template/{{date}}.md",
     "Catatan Harian",
     "Rapat/Penindakan 7 Maret 2025.md",
