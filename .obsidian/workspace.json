@@ -58,9 +58,19 @@
               "icon": "lucide-file",
               "title": "Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM"
             }
+          },
+          {
+            "id": "3bcb3edabe71c439",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,10 +149,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4bde2b1e90f873f",
+  "active": "3bcb3edabe71c439",
   "lastOpenFiles": [
-    "Catatan Harian/2025-06-02.md",
     "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
+    "Catatan Harian/2025-06-02.md",
     "Laporan",
     "Catatan Harian/2025-05-28.md",
     "Template/{{date}}.md",
