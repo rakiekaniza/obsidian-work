@@ -69,8 +69,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bcb3edabe71c439",
+  "active": "7cc4f85a11335a65",
   "lastOpenFiles": [
     "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
     "Catatan Harian/2025-06-02.md",
