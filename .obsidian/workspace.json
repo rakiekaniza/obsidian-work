@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-05-28.md",
+                "file": "Catatan Harian/2025-06-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-28"
+              "title": "2025-06-02"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catatan Harian/2025-05-28.md",
+                "file": "Catatan Harian/2025-06-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-05-28"
+              "title": "Backlinks for 2025-06-02"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catatan Harian/2025-05-28.md",
+                "file": "Catatan Harian/2025-06-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-05-28"
+              "title": "Outgoing links from 2025-06-02"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catatan Harian/2025-05-28.md",
+                "file": "Catatan Harian/2025-06-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-28"
+              "title": "Outline of 2025-06-02"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "7cc4f85a11335a65",
   "lastOpenFiles": [
-    "Template/{{date}}.md",
     "Catatan Harian/2025-05-28.md",
+    "Catatan Harian/2025-06-02.md",
+    "Template/{{date}}.md",
     "Catatan Harian",
     "Rapat/Penindakan 7 Maret 2025.md",
     "Rapat/Pasted image 20250526093603.png",
