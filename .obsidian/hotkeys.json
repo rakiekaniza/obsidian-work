@@ -7,5 +7,15 @@
       ],
       "key": "D"
     }
-  ]
+  ],
+  "nldates-obsidian:nlp-time": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:undo-close-pane": []
 }
