@@ -10,6 +10,33 @@
           {
             "id": "7cc4f85a11335a65",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Catatan Harian/2025-06-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-06-02"
+            }
+          },
+          {
+            "id": "b4bde2b1e90f873f",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -27,11 +54,13 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cc4f85a11335a65",
+  "active": "b4bde2b1e90f873f",
   "lastOpenFiles": [
     "Catatan Harian/2025-06-02.md",
     "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
