@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todos.md",
+                "file": "Catatan Harian/2025-06-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Todos"
+              "title": "2025-06-05"
             }
           }
         ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todos.md",
+                "file": "Catatan Harian/2025-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todos"
+              "title": "Backlinks for 2025-06-05"
             }
           },
           {
@@ -150,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todos.md",
+                "file": "Catatan Harian/2025-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Todos"
+              "title": "Outgoing links from 2025-06-05"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todos.md",
+                "file": "Catatan Harian/2025-06-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Todos"
+              "title": "Outline of 2025-06-05"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "c8e7e313ff9ba332",
   "lastOpenFiles": [
-    "Catatan Harian/2025-06-05.md",
     "Todos.md",
+    "Catatan Harian/2025-06-05.md",
     "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
     "Catatan Harian/2025-06-02.md",
     "Catatan Harian/2025-06-04.md",
