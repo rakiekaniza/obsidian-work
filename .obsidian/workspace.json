@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cc4f85a11335a65",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Catatan Harian/2025-06-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-06-02"
-            }
-          },
-          {
             "id": "b4bde2b1e90f873f",
             "type": "leaf",
             "pinned": true,
@@ -65,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-06-04.md",
+                "file": "Todos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,11 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-04"
+              "title": "Todos"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f1b780266bbce6d4",
@@ -158,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catatan Harian/2025-06-04.md",
+                "file": "Todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-04"
+              "title": "Backlinks for Todos"
             }
           },
           {
@@ -177,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catatan Harian/2025-06-04.md",
+                "file": "Todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-06-04"
+              "title": "Outgoing links from Todos"
             }
           },
           {
@@ -206,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catatan Harian/2025-06-04.md",
+                "file": "Todos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-04"
+              "title": "Outline of Todos"
             }
           }
         ]
@@ -235,12 +208,14 @@
   },
   "active": "c8e7e313ff9ba332",
   "lastOpenFiles": [
-    "Catatan Harian/2025-06-03.md",
+    "Catatan Harian/2025-06-05.md",
+    "Todos.md",
+    "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
+    "Catatan Harian/2025-06-02.md",
     "Catatan Harian/2025-06-04.md",
+    "Catatan Harian/2025-06-03.md",
     "Pengembangan TTE 2025.md",
     "TTE.md",
-    "Catatan Harian/2025-06-02.md",
-    "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
     "Laporan",
     "Catatan Harian/2025-05-28.md",
     "Template/{{date}}.md",
@@ -266,7 +241,6 @@
     "Pasted image 20250318103153.png",
     "Kerjasama dengan BPJS.md",
     "data.md",
-    "Tanggal.md",
-    "Welcome.md"
+    "Tanggal.md"
   ]
 }
