@@ -1,1 +1,4 @@
-- [ ]
+- [ ] Isi NIK di data ADP
+- [ ] Laporan ke pimpinan rapat BGN
+- [ ] Tarik data CPNS ke TTE
+- [ ] 
