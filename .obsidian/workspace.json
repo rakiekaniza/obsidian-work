@@ -37,19 +37,9 @@
             "id": "c8e7e313ff9ba332",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "bc8f009b26aa2f3f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-06-11.md",
+                "file": "Catatan Harian/2025-06-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,11 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-11"
+              "title": "2025-06-12"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc8f009b26aa2f3f",
+  "active": "c8e7e313ff9ba332",
   "lastOpenFiles": [
-    "Pelatihan Digitalent.md",
     "Catatan Harian/2025-06-11.md",
+    "Catatan Harian/2025-06-12.md",
+    "Pelatihan Digitalent.md",
     "TTE.md",
     "Rapat Lainnya.md",
     "Todos.md",
@@ -249,7 +240,6 @@
     "Rapat/Wawancara Lemhanmas 7 Mei 2025.md",
     "Rapat/New Aero 25 April 2025.md",
     "Rapat/Penindakan 23 April 2025.md",
-    "Rapat/Penindakan 21 Maret 2025.md",
     "Rapat/Pasted image 20250526093308.png",
     "Pasted image 20250318103153.png"
   ]
