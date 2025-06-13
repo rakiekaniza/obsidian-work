@@ -4,9 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "cc0414f56e3a0243",
+        "id": "9f6a894cfdfb6ebe",
         "type": "tabs",
         "children": [
+          {
+            "id": "c8e7e313ff9ba332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Catatan Harian/2025-06-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-13"
+            }
+          },
           {
             "id": "b4bde2b1e90f873f",
             "type": "leaf",
@@ -34,12 +58,12 @@
             }
           },
           {
-            "id": "c8e7e313ff9ba332",
+            "id": "0be29cfdd8e04ffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-06-12.md",
+                "file": "Catatan Harian/2025-06-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +78,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-12"
+              "title": "2025-06-13"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,15 +230,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8e7e313ff9ba332",
+  "active": "0be29cfdd8e04ffa",
   "lastOpenFiles": [
-    "Catatan Harian/2025-06-11.md",
+    "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
+    "Catatan Harian/2025-06-13.md",
     "Catatan Harian/2025-06-12.md",
+    "Catatan Harian/2025-06-11.md",
     "Pelatihan Digitalent.md",
     "TTE.md",
     "Rapat Lainnya.md",
     "Todos.md",
-    "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
     "Catatan Harian/2025-06-10.md",
     "Pengembangan TTE 2025.md",
     "Catatan Harian/2025-06-05.md",
@@ -239,7 +264,6 @@
     "Rapat/Workshop Satusehat 17 April 2025.md",
     "Rapat/Wawancara Lemhanmas 7 Mei 2025.md",
     "Rapat/New Aero 25 April 2025.md",
-    "Rapat/Penindakan 23 April 2025.md",
     "Rapat/Pasted image 20250526093308.png",
     "Pasted image 20250318103153.png"
   ]
