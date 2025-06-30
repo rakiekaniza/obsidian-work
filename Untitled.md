@@ -5,4 +5,6 @@ Pembukaan oleh Sesmenko Perekonomian, Susiwijono
 - dengan terbitnya pp 28 tahun 2025 diharapkan mampu mempercepat proses dan memberikan kejelasan dan kepastian kepada pelaku usaha
 - Pada PP 28 diterapkan SLA dalam seluruh proses tahapan
 - Selama ini pelaku usaha mengeluhkan ketidakpastian waktu
-- -
+- Diterapkan kebijakan fiktif positif untuk mendukung kebijakan sla, yang nanti akan diberlakukan secara bertahap
+- Setelah melewati batas waktu sla maka perizinan akan terbit secara otomatis
+- 
