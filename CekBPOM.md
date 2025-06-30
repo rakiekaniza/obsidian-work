@@ -1,3 +1,3 @@
-- Data e-reg rba dikirim ke db lama
+- Data e-reg rba lebih update di db lama
 - Data notifkos ada yang tidak terkirim
 - Data manufacturer di new aero tidak terkirim
