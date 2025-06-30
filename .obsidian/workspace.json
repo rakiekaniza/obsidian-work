@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df2e051f8373a801",
+  "active": "7f9f96d51b30b4e8",
   "lastOpenFiles": [
     "Untitled.md",
     "CekBPOM.md",
