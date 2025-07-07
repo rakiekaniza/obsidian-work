@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "CekBPOM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,11 +69,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "CekBPOM"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f1b780266bbce6d4",
@@ -222,15 +221,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f9f96d51b30b4e8",
+  "active": "df2e051f8373a801",
   "lastOpenFiles": [
+    "Untitled.md",
+    "CekBPOM.md",
     "Catatan Harian/2025-07-02.md",
     "Pelatihan Digitalent.md",
     "Catatan Harian/2025-07-01.md",
     "Catatan Harian/2025-06-30.md",
     "Penindakan.md",
-    "CekBPOM.md",
-    "Untitled.md",
     "Catatan Harian/2025-06-25.md",
     "Catatan Harian/2025-06-23.md",
     "Catatan Harian/2025-06-19.md",
