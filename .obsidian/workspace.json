@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-07-07.md",
+                "file": "Pelatihan Digitalent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,7 +69,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-07"
+              "title": "Pelatihan Digitalent"
             }
           }
         ],
@@ -223,8 +223,8 @@
   },
   "active": "df2e051f8373a801",
   "lastOpenFiles": [
-    "CekBPOM.md",
     "Catatan Harian/2025-07-07.md",
+    "CekBPOM.md",
     "Untitled.md",
     "Catatan Harian/2025-07-02.md",
     "Pelatihan Digitalent.md",
