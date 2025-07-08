@@ -39,41 +39,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CekBPOM.md",
+                "file": "Catatan Harian/2025-07-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CekBPOM"
-            }
-          },
-          {
-            "id": "df2e051f8373a801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pelatihan Digitalent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pelatihan Digitalent"
+              "title": "2025-07-08"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,17 +197,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df2e051f8373a801",
+  "active": "7f9f96d51b30b4e8",
   "lastOpenFiles": [
-    "Catatan Harian/2025-07-07.md",
-    "CekBPOM.md",
-    "Untitled.md",
-    "Catatan Harian/2025-07-02.md",
-    "Pelatihan Digitalent.md",
-    "Catatan Harian/2025-07-01.md",
-    "Catatan Harian/2025-06-30.md",
-    "Penindakan.md",
     "Catatan Harian/2025-06-25.md",
+    "Catatan Harian/2025-06-30.md",
+    "Catatan Harian/2025-07-01.md",
+    "Catatan Harian/2025-07-02.md",
+    "Catatan Harian/2025-07-07.md",
+    "Catatan Harian/2025-07-08.md",
+    "Rapat/Sosialisasi PP 28 2025.md",
+    "Pelatihan Digitalent.md",
+    "CekBPOM.md",
+    "Penindakan.md",
     "Catatan Harian/2025-06-23.md",
     "Catatan Harian/2025-06-19.md",
     "Laporan/Laporan Pengembangan dan Integrasi Kedeputian 1 New Aero, TTE, dan CekBPOM.md",
@@ -248,7 +225,6 @@
     "Pengembangan TTE 2025.md",
     "Catatan Harian/2025-06-05.md",
     "Catatan Harian/2025-06-02.md",
-    "Catatan Harian/2025-06-04.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
