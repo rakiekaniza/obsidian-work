@@ -47,9 +47,33 @@
               "icon": "lucide-file",
               "title": "CekBPOM"
             }
+          },
+          {
+            "id": "c6c8fdc7df2f6338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pengembangan CekBPOM 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pengembangan CekBPOM 2025"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,8 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f9f96d51b30b4e8",
+  "active": "c6c8fdc7df2f6338",
   "lastOpenFiles": [
+    "CekBPOM.md",
+    "Pengembangan CekBPOM 2025.md",
     "Catatan Harian/2025-07-08.md",
     "Catatan Harian/2025-06-25.md",
     "Catatan Harian/2025-06-30.md",
@@ -209,7 +235,6 @@
     "Catatan Harian/2025-07-07.md",
     "Rapat/Sosialisasi PP 28 2025.md",
     "Pelatihan Digitalent.md",
-    "CekBPOM.md",
     "Penindakan.md",
     "Catatan Harian/2025-06-23.md",
     "Catatan Harian/2025-06-19.md",
@@ -225,7 +250,6 @@
     "Catatan Harian/2025-06-10.md",
     "Pengembangan TTE 2025.md",
     "Catatan Harian/2025-06-05.md",
-    "Catatan Harian/2025-06-02.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",

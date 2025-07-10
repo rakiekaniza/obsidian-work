@@ -1,8 +1,4 @@
-- Data e-reg rba lebih update di db lama
-- Data notifkos ada yang tidak terkirim
-- Data manufacturer di new aero tidak terkirim
-- Termin 1 23 Juli 
-## Pengembangan 2025
+Spesifikasi
 1. Penyempurnaan filter, pencarian dan tampilan detail produk 
 2. Penyempurnaan dashboard 
 3. Penyempurnaan aliran data dari aplikasi registrasi ke cekbpom 
