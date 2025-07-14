@@ -74,6 +74,36 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7b318c3056e2dbf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5804b167fb0bf651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CekBPOM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CekBPOM"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,12 +251,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f9f96d51b30b4e8",
+  "active": "5804b167fb0bf651",
   "lastOpenFiles": [
+    "Catatan Harian/2025-07-14.md",
     "CekBPOM.md",
     "Catatan Harian/2025-07-08.md",
     "Catatan Harian/2025-07-10.md",
-    "Catatan Harian/2025-07-14.md",
     "Pengembangan CekBPOM 2025.md",
     "Catatan Harian/2025-06-25.md",
     "Catatan Harian/2025-06-30.md",
