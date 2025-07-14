@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-07-14.md",
+                "file": "Catatan Harian/2025-07-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,7 +69,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-14"
+              "title": "2025-07-08"
             }
           }
         ],
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f1b780266bbce6d4",
@@ -226,8 +225,8 @@
   "lastOpenFiles": [
     "Catatan Harian/2025-07-10.md",
     "Catatan Harian/2025-07-14.md",
-    "Pengembangan CekBPOM 2025.md",
     "CekBPOM.md",
+    "Pengembangan CekBPOM 2025.md",
     "Catatan Harian/2025-07-08.md",
     "Catatan Harian/2025-06-25.md",
     "Catatan Harian/2025-06-30.md",
