@@ -14,4 +14,6 @@
 - Data notifkos ada yang tidak terkirim
 - Data manufacturer di new aero tidak terkirim
 - Label data caption di masing-masing komoditi
+- Filter user id di daftar users
+- Filter di hari libur
 - 
