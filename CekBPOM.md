@@ -1,7 +1,7 @@
 - Termin 1 23 Juli 
 ## Pengembangan 2025
 1. Penyempurnaan filter, pencarian dan tampilan detail produk 
-	-  Tampilan data pabrik/ pemberi dan penerima kontrak (jika kontrak) / pengemas (jika dikemas kembali) pada komoditi Suplemen dan Obat Kuasi, Untuk Obat Tradisional sudah sesuai
+	-  Tampilan data pabrik/ pemberi dan penerima kontrak (jika kontrak) / pengemas (jika dikemas kembali) pada komoditi Suplemen dan Obat Kuasi, Untuk Obat Tradisional sudah sesuai. Contoh NIE: QD256016141
 	- Filter user id di daftar user dijadikan nip
 	- Filter di hari libur
 	- Detail produk sesuai data di db t_product_manufacturer
