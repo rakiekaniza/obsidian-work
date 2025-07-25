@@ -27,6 +27,9 @@
 8. Penyempurnaan API CekBPOM
 	- API daftar hari libur
 9. Penyempurnaan manajemen user (integrasi data siasn)
+
+- Link aplikasi diganti ke bpom mobile
+- Tahun diganti jadi 2025
 ## Data
 - Data e-reg rba lebih update di db lama
 - Data notifkos ada yang tidak terkirim
