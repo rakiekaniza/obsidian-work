@@ -3,6 +3,7 @@
 1. Penyempurnaan filter, pencarian dan tampilan detail produk 
 	- Filter user id di daftar users
 	- Filter di hari libur
+	- Detail produk sesuai data di db t_product_manufacturer
 2. Penyempurnaan dashboard 
 3. Penyempurnaan aliran data dari aplikasi registrasi ke cekbpom 
 4. Penyempurnaan aliran data label dari aplikasi registrasi ke cekbpom 
