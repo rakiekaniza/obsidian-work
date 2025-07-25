@@ -5,7 +5,8 @@
 	- Perbaikan filter: 
 		- Daftar produk: nomor registrasi, 
 		- Daftar user: user id (diganti menjadi nip), nama produk, kemasan (tidak bisa filter dengan isian tertentu, contoh: Botol, 7 mL), semua filter tanggal dibuat menjadi range dengan date picker
-		- Produk ditarik: 
+		- Produk ditarik: nomor registrasi, status, semua filter tanggal dibuat menjadi range dengan date picker
+		- Penjelasan Publik: 
 		- Hari libur:
 	- Detail produk sesuai data di db t_product_manufacturer
 	- Dropdown produk ditarik, penjelasan publik, dan informasi sirop obat dipisah
