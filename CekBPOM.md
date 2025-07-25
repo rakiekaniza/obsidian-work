@@ -31,6 +31,7 @@
 - Link aplikasi diganti ke bpom mobile
 - Tahun diganti jadi 2025
 - Input nie manual
+- Logo dan teck cek bpom diganti jadi link ke home
 - 
 ## Data
 - Data e-reg rba lebih update di db lama
