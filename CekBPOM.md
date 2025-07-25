@@ -9,6 +9,7 @@
 		- Penjelasan Publik: NIE
 		- Hari libur:
 	- Semua filter tanggal dibuat menjadi range dengan date picker
+	- NPWP, telp, fax pada daftar sarana dihilangkan
 	- Detail produk sesuai data di db t_product_manufacturer
 	- Dropdown produk ditarik, penjelasan publik, dan informasi sirop obat dipisah
 	- 
