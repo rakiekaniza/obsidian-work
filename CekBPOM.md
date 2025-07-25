@@ -14,7 +14,10 @@
 	- Detail produk sesuai data di db t_product_manufacturer
 	- Dropdown produk ditarik, penjelasan publik, dan informasi sirop obat dipisah
 2. Penyempurnaan dashboard 
+	- Grafik Jumlah Produk teregistrasi yang masih berlaku pada halaman depan tidak sesuai untuk komoditas OTSK
+	- Pemisahan obat kuasi dari suplemen kesehatan di dashboard
 3. Penyempurnaan aliran data dari aplikasi registrasi ke cekbpom 
+	- Nama pendaftar tidak muncul pada detail produk komoditi pangan, pengecekan aliran dari e-reg
 4. Penyempurnaan aliran data label dari aplikasi registrasi ke cekbpom 
 5. Penyempurnaan menu pada role administrator 
 6. Penyempurnaan modul produk yang ditarik (recall produk) dan penjelasan publik (public warning)
