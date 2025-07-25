@@ -1,6 +1,8 @@
 - Termin 1 23 Juli 
 ## Pengembangan 2025
 1. Penyempurnaan filter, pencarian dan tampilan detail produk 
+	- Filter user id di daftar users
+	- Filter di hari libur
 2. Penyempurnaan dashboard 
 3. Penyempurnaan aliran data dari aplikasi registrasi ke cekbpom 
 4. Penyempurnaan aliran data label dari aplikasi registrasi ke cekbpom 
@@ -14,6 +16,4 @@
 - Data notifkos ada yang tidak terkirim
 - Data manufacturer di new aero tidak terkirim
 - Label data caption di masing-masing komoditi
-- Filter user id di daftar users
-- Filter di hari libur
-- 
+-
