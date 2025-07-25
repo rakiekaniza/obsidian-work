@@ -8,12 +8,11 @@
 		- Penjelasan Publik: NIE
 		- Daftar Sarana: alamat, provinsi, negara
 		- Hari libur: tidak jalan sama sekali
-		- Daftar user: user id (diganti menjadi nip), 
+		- Daftar user: user id (diganti menjadi nip), status diganti jadi dropdown
 	- Semua filter tanggal dibuat menjadi range dengan date picker
 	- NPWP, telp, fax pada daftar sarana dihilangkan
 	- Detail produk sesuai data di db t_product_manufacturer
 	- Dropdown produk ditarik, penjelasan publik, dan informasi sirop obat dipisah
-	- 
 2. Penyempurnaan dashboard 
 3. Penyempurnaan aliran data dari aplikasi registrasi ke cekbpom 
 4. Penyempurnaan aliran data label dari aplikasi registrasi ke cekbpom 
