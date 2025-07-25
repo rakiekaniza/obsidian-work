@@ -16,6 +16,8 @@
 2. Penyempurnaan dashboard 
 	- Grafik Jumlah Produk teregistrasi yang masih berlaku pada halaman depan tidak sesuai untuk komoditas OTSK
 	- Pemisahan obat kuasi dari suplemen kesehatan di dashboard
+	- Data daftar produk paling sering dicari
+	- 
 3. Penyempurnaan aliran data dari aplikasi registrasi ke cekbpom 
 	- Nama pendaftar tidak muncul pada detail produk komoditi pangan, pengecekan aliran dari e-reg
 4. Penyempurnaan aliran data label dari aplikasi registrasi ke cekbpom 
