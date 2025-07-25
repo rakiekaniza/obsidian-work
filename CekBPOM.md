@@ -4,9 +4,12 @@
 	-  Tampilan data pabrik/ pemberi dan penerima kontrak (jika kontrak) / pengemas (jika dikemas kembali) pada komoditi Suplemen dan Obat Kuasi, Untuk Obat Tradisional sudah sesuai. Contoh NIE: QD256016141
 	- Perbaikan filter: 
 		- Daftar produk: nomor registrasi, 
-		- Daftar user: user id (diganti menjadi nip), nama produk, kemasan (tidak bisa filter dengan isian tertentu, contoh: Botol, 7 mL), Fil
+		- Daftar user: user id (diganti menjadi nip), nama produk, kemasan (tidak bisa filter dengan isian tertentu, contoh: Botol, 7 mL), semua filter tanggal dibuat menjadi range dengan date picker
+		- Produk ditarik: 
 		- Hari libur:
 	- Detail produk sesuai data di db t_product_manufacturer
+	- Dropdown produk ditarik, penjelasan publik, dan informasi sirop obat dipisah
+	- 
 2. Penyempurnaan dashboard 
 3. Penyempurnaan aliran data dari aplikasi registrasi ke cekbpom 
 4. Penyempurnaan aliran data label dari aplikasi registrasi ke cekbpom 
