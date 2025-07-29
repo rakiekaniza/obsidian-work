@@ -38,4 +38,8 @@
 - Data notifkos ada yang tidak terkirim
 - Data manufacturer di new aero tidak terkirim
 - Label data caption di masing-masing komoditi
--
+# Todos
+- [ ] Kirim grace period ke pengembang
+- [ ] Konfirmasi url file label
+- [ ] Konfirmasi kendala di produk recall
+- [ ] 
