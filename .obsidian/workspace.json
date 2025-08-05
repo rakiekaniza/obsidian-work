@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-08-05.md",
+                "file": "CekBPOM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-05"
+              "title": "CekBPOM"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "5804b167fb0bf651",
   "lastOpenFiles": [
-    "Catatan Harian/2025-08-01.md",
     "Catatan Harian/2025-08-05.md",
+    "Catatan Harian/2025-08-01.md",
     "V4xaQ1Yg.md",
     "Catatan Harian/2025-07-29.md",
     "CekBPOM.md",

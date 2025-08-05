@@ -40,6 +40,7 @@
 - Label data caption di masing-masing komoditi
 # Todos
 - [ ] Kirim grace period ke pengembang
+	- [ ] grace period produk renewal
 - [ ] Konfirmasi url file label
 - [ ] Konfirmasi kendala di produk recall
 - [ ] 
