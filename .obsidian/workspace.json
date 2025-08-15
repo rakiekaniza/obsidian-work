@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-08-14.md",
+                "file": "Catatan Harian/2025-08-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-14"
+              "title": "2025-08-15"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f1b780266bbce6d4",
@@ -181,8 +182,9 @@
   },
   "active": "5804b167fb0bf651",
   "lastOpenFiles": [
-    "Pelatihan Digitalent.md",
     "Catatan Harian/2025-08-14.md",
+    "Catatan Harian/2025-08-15.md",
+    "Pelatihan Digitalent.md",
     "Catatan Harian/2025-08-13.md",
     "Catatan Harian/2025-08-11.md",
     "CekBPOM.md",
@@ -206,7 +208,6 @@
     "Catatan Harian/2025-07-07.md",
     "Rapat/Sosialisasi PP 28 2025.md",
     "Penindakan.md",
-    "Catatan Harian/2025-06-23.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
