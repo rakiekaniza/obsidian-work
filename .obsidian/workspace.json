@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pelatihan Digitalent.md",
+                "file": "Catatan Harian/2025-08-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pelatihan Digitalent"
+              "title": "2025-08-26"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -191,12 +192,13 @@
   },
   "active": "5804b167fb0bf651",
   "lastOpenFiles": [
+    "Pelatihan Digitalent.md",
+    "Catatan Harian/2025-08-26.md",
     "Catatan Harian/2025-08-21.md",
     "V4xaQ1Yg.md",
     "Catatan Harian/2025-08-19.md",
     "Catatan Harian/2025-08-15.md",
     "Catatan Harian/2025-08-14.md",
-    "Pelatihan Digitalent.md",
     "Catatan Harian/2025-08-13.md",
     "Catatan Harian/2025-08-11.md",
     "CekBPOM.md",
@@ -216,7 +218,6 @@
     "Catatan Harian/2025-06-30.md",
     "Catatan Harian/2025-07-01.md",
     "Catatan Harian/2025-07-02.md",
-    "Catatan Harian/2025-07-07.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
