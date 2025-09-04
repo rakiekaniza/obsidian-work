@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-08-26"
             }
+          },
+          {
+            "id": "c7c56c6dc3da4c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Catatan Harian/2025-09-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-05"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5804b167fb0bf651",
+  "active": "c7c56c6dc3da4c47",
   "lastOpenFiles": [
+    "Catatan Harian/2025-09-05.md",
     "Pelatihan Digitalent.md",
     "Catatan Harian/2025-08-26.md",
     "Catatan Harian/2025-08-21.md",
@@ -217,7 +243,6 @@
     "Catatan Harian/2025-06-25.md",
     "Catatan Harian/2025-06-30.md",
     "Catatan Harian/2025-07-01.md",
-    "Catatan Harian/2025-07-02.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
