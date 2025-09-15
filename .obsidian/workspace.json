@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a1a48710090c5acf",
+        "id": "7a9fd578b4004f87",
         "type": "tabs",
         "children": [
           {
-            "id": "2e251bae77ef86ff",
+            "id": "14788ec0900f9035",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Catatan Harian/2025-09-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-09-15"
             }
           }
         ]
@@ -176,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e251bae77ef86ff",
+  "active": "14788ec0900f9035",
   "lastOpenFiles": [
     "Catatan Harian/2025-09-15.md",
     "conflict-files-obsidian-git.md",
