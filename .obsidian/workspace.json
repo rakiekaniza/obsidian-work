@@ -11,10 +11,24 @@
             "id": "8fb87d9de4861b83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Catatan Harian/2025-09-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-09-16"
             }
           }
         ]
@@ -176,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81f076d9f6f6b5b4",
+  "active": "8fb87d9de4861b83",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Catatan Harian/2025-09-16.md",
