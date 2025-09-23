@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f1b780266bbce6d4",
@@ -176,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81f076d9f6f6b5b4",
+  "active": "41bc7f9156cb37c6",
   "lastOpenFiles": [
-    "Catatan Harian/2025-09-23.md",
     "conflict-files-obsidian-git.md",
+    "Catatan Harian/2025-09-23.md",
     "Catatan Harian/2025-09-22.md",
     "Catatan Harian/2025-09-19.md",
     "Catatan Harian/2025-09-18.md",
