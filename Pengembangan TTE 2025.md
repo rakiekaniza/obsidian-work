@@ -9,6 +9,8 @@ Spesifikasi:
 - Penyempurnaan API TTE Gateway
 	- ==proses tte tanpa pengecekan status kadaluarsa terlebih dahulu, tte dicek saat proses di esign client saja==
 - Redesign TTE Gateway
+	- Penyempurnaan dashboard
+		- Grafik transaksi gagal berdasarkan penyebab
 	- Penyempurnaan filtering dan pencarian
 	- Penyempurnaan manajemen aplikasi
 		- ==Penambahan link aplikasi==
