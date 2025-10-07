@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-10-02.md",
+                "file": "Catatan Harian/2025-10-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-02"
-            }
-          },
-          {
-            "id": "2740683d6d5dd0ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "2025-10-07"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2740683d6d5dd0ac",
+  "active": "f18c84a7301fddfa",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Catatan Harian/2025-10-02.md",
+    "Catatan Harian/2025-10-07.md",
+    "conflict-files-obsidian-git.md",
     "Pengembangan TTE 2025.md",
     "Catatan Harian/2025-10-01.md",
     "Catatan Harian/2025-09-25.md",
@@ -242,7 +218,6 @@
     "CekBPOM.md",
     "Pelatihan Digitalent.md",
     "Pengembangan CekBPOM 2025.md",
-    "V4xaQ1Yg.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
