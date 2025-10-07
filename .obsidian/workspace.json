@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-10-07.md",
+                "file": "Catatan Harian/2025-10-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-07"
+              "title": "2025-10-01"
             }
           }
         ]
@@ -192,10 +192,10 @@
   },
   "active": "d257e6f34212c69d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Catatan Harian/2025-10-07.md",
-    "Catatan Harian/2025-10-06.md",
     "Catatan Harian/2025-10-02.md",
+    "Catatan Harian/2025-10-06.md",
+    "Catatan Harian/2025-10-07.md",
+    "conflict-files-obsidian-git.md",
     "Pengembangan TTE 2025.md",
     "Catatan Harian/2025-10-01.md",
     "Catatan Harian/2025-09-25.md",
