@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4182fd3eaff9589",
+        "id": "39e3190765135703",
         "type": "tabs",
         "children": [
           {
-            "id": "f18c84a7301fddfa",
+            "id": "d257e6f34212c69d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,11 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f18c84a7301fddfa",
+  "active": "d257e6f34212c69d",
   "lastOpenFiles": [
-    "Catatan Harian/2025-10-02.md",
-    "Catatan Harian/2025-10-07.md",
     "conflict-files-obsidian-git.md",
+    "Catatan Harian/2025-10-07.md",
+    "Catatan Harian/2025-10-06.md",
+    "Catatan Harian/2025-10-02.md",
     "Pengembangan TTE 2025.md",
     "Catatan Harian/2025-10-01.md",
     "Catatan Harian/2025-09-25.md",
@@ -217,7 +218,6 @@
     "Catatan Harian/2025-08-27.md",
     "CekBPOM.md",
     "Pelatihan Digitalent.md",
-    "Pengembangan CekBPOM 2025.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
