@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "2025-10-09"
             }
-          },
-          {
-            "id": "4565b8837f6c63e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4565b8837f6c63e9",
+  "active": "81f076d9f6f6b5b4",
   "lastOpenFiles": [
     "Catatan Harian/2025-10-09.md",
     "conflict-files-obsidian-git.md",
