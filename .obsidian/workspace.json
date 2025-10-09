@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-10-09"
             }
+          },
+          {
+            "id": "4565b8837f6c63e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,15 +215,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d257e6f34212c69d",
+  "active": "4565b8837f6c63e9",
   "lastOpenFiles": [
-    "Catatan Harian/2025-10-08.md",
     "Catatan Harian/2025-10-09.md",
+    "conflict-files-obsidian-git.md",
+    "Catatan Harian/2025-10-08.md",
     "Catatan Harian/2025-10-01.md",
     "Catatan Harian/2025-10-02.md",
     "Catatan Harian/2025-10-06.md",
     "Catatan Harian/2025-10-07.md",
-    "conflict-files-obsidian-git.md",
     "Pengembangan TTE 2025.md",
     "Catatan Harian/2025-09-25.md",
     "Catatan Harian/2025-09-26.md",
