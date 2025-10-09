@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-10-01.md",
+                "file": "Catatan Harian/2025-10-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-01"
+              "title": "2025-10-08"
+            }
+          },
+          {
+            "id": "8f4220e49328189c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,14 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d257e6f34212c69d",
+  "active": "8f4220e49328189c",
   "lastOpenFiles": [
+    "Catatan Harian/2025-10-08.md",
+    "Catatan Harian/2025-10-01.md",
     "Catatan Harian/2025-10-02.md",
     "Catatan Harian/2025-10-06.md",
     "Catatan Harian/2025-10-07.md",
     "conflict-files-obsidian-git.md",
     "Pengembangan TTE 2025.md",
-    "Catatan Harian/2025-10-01.md",
     "Catatan Harian/2025-09-25.md",
     "Catatan Harian/2025-09-26.md",
     "Catatan Harian/2025-09-24.md",
@@ -217,7 +229,6 @@
     "Catatan Harian/2025-08-26.md",
     "Catatan Harian/2025-08-27.md",
     "CekBPOM.md",
-    "Pelatihan Digitalent.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
