@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82ffd4ee7f57c101",
+        "id": "39e3190765135703",
         "type": "tabs",
         "children": [
           {
-            "id": "c795a633f7d0295e",
+            "id": "d257e6f34212c69d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-10-06.md",
+                "file": "Catatan Harian/2025-10-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-06"
+              "title": "2025-10-09"
             }
           }
         ]
@@ -167,8 +167,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,38 +191,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c795a633f7d0295e",
+  "active": "d7b243fe410115a0",
   "lastOpenFiles": [
+    "Catatan Harian/2025-10-16.md",
     "Catatan Harian/2025-10-15.md",
     "Catatan Harian/2025-10-14.md",
     "Catatan Harian/2025-10-13.md",
+    "conflict-files-obsidian-git.md",
     "Catatan Harian/2025-10-09.md",
     "Catatan Harian/2025-10-08.md",
-    "Catatan Harian/2025-10-07.md",
+    "Catatan Harian/2025-10-01.md",
     "Catatan Harian/2025-10-02.md",
     "Catatan Harian/2025-10-06.md",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.base",
-    "conflict-files-obsidian-git.md",
-    "Catatan Harian/2025-10-01.md",
-    "Catatan Harian/2025-09-26.md",
-    "Catatan Harian/2025-09-23.md",
+    "Catatan Harian/2025-10-07.md",
+    "Pengembangan TTE 2025.md",
     "Catatan Harian/2025-09-25.md",
+    "Catatan Harian/2025-09-26.md",
     "Catatan Harian/2025-09-24.md",
+    "Catatan Harian/2025-09-23.md",
     "Catatan Harian/2025-09-22.md",
-    "Catatan Harian/2025-09-19.md",
     "Catatan Harian/2025-09-18.md",
-    "Catatan Harian/2025-09-17.md",
+    "Catatan Harian/2025-09-19.md",
     "Catatan Harian/2025-09-16.md",
+    "Catatan Harian/2025-09-17.md",
     "Catatan Harian/2025-09-15.md",
-    "Catatan Harian/2025-09-11.md",
-    "Catatan Harian/2025-09-10.md",
     "Catatan Harian/2025-09-12.md",
     "Catatan Harian/2025-09-05.md",
-    "CekBPOM.md",
-    "Catatan Harian/2025-09-03.md",
+    "Catatan Harian/2025-09-10.md",
+    "Catatan Harian/2025-09-11.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
