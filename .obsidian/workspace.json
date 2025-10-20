@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-10-09.md",
+                "file": "Catatan Harian/2025-10-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-09"
+              "title": "2025-10-20"
             }
           }
         ]
@@ -191,14 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7b243fe410115a0",
+  "active": "d257e6f34212c69d",
   "lastOpenFiles": [
+    "Catatan Harian/2025-10-09.md",
+    "Catatan Harian/2025-07-24.md",
+    "Catatan Harian/2025-10-20.md",
     "Catatan Harian/2025-10-16.md",
     "Catatan Harian/2025-10-15.md",
     "Catatan Harian/2025-10-14.md",
     "Catatan Harian/2025-10-13.md",
     "conflict-files-obsidian-git.md",
-    "Catatan Harian/2025-10-09.md",
     "Catatan Harian/2025-10-08.md",
     "Catatan Harian/2025-10-01.md",
     "Catatan Harian/2025-10-02.md",
@@ -217,8 +219,6 @@
     "Catatan Harian/2025-09-15.md",
     "Catatan Harian/2025-09-12.md",
     "Catatan Harian/2025-09-05.md",
-    "Catatan Harian/2025-09-10.md",
-    "Catatan Harian/2025-09-11.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
