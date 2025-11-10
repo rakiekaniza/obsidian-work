@@ -168,8 +168,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +193,10 @@
   },
   "active": "d257e6f34212c69d",
   "lastOpenFiles": [
-    "Catatan Harian/2025-11-05.md",
+    "conflict-files-obsidian-git.md",
     "Catatan Harian/2025-11-10.md",
+    "Catatan Harian/2025-11-07.md",
+    "Catatan Harian/2025-11-05.md",
     "Catatan Harian/2025-11-03.md",
     "Catatan Harian/2025-10-31.md",
     "Catatan Harian/2025-10-28.md",
@@ -210,7 +211,6 @@
     "Catatan Harian/2025-10-15.md",
     "Catatan Harian/2025-10-14.md",
     "Catatan Harian/2025-10-13.md",
-    "conflict-files-obsidian-git.md",
     "Catatan Harian/2025-10-08.md",
     "Catatan Harian/2025-10-01.md",
     "Catatan Harian/2025-10-02.md",
@@ -220,7 +220,6 @@
     "Catatan Harian/2025-09-25.md",
     "Catatan Harian/2025-09-26.md",
     "Catatan Harian/2025-09-24.md",
-    "Catatan Harian/2025-09-23.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
