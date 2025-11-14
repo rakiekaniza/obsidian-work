@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,6 +194,7 @@
   },
   "active": "d257e6f34212c69d",
   "lastOpenFiles": [
+    "Pasted image 20251114091541.png",
     "conflict-files-obsidian-git.md",
     "Catatan Harian/2025-11-14.md",
     "Catatan Harian/2025-11-11.md",
@@ -219,7 +221,6 @@
     "Catatan Harian/2025-10-06.md",
     "Catatan Harian/2025-10-07.md",
     "Pengembangan TTE 2025.md",
-    "Catatan Harian/2025-09-25.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
