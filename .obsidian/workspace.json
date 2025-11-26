@@ -55,7 +55,8 @@
               "title": "Registrasi Obat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35ccf675502e7abf",
+  "active": "d9565c9fbb513308",
   "lastOpenFiles": [
-    "Registrasi Obat.md",
     "Catatan Harian/2025-11-26.md",
+    "Registrasi Obat.md",
     "Catatan Harian/2025-11-21.md",
     "Catatan Harian/2025-11-20.md",
     "Catatan Harian/2025-11-18.md",
