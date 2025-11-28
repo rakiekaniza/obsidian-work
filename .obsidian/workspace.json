@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,10 +241,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a40df9e5e347ca03",
+  "active": "d9565c9fbb513308",
   "lastOpenFiles": [
-    "Catatan Harian/2025-11-28.md",
     "Catatan Harian/2025-11-26.md",
+    "Catatan Harian/2025-11-28.md",
     "Pasted image 20251126104104.png",
     "Registrasi Obat.md",
     "Catatan Harian/2025-11-21.md",
