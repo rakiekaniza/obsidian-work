@@ -42,4 +42,5 @@ Akun Evaluator
 	- List Formula Obat
 	- List Status Obat
 	- List Paten Obat
+- Indikator saat Simpan Valiadasi Dokumen tidak hilang
 - 
