@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-12-15.md",
+                "file": "Registrasi Obat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-15"
-            }
-          },
-          {
-            "id": "a40df9e5e347ca03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Catatan Harian/2025-11-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-28"
+              "title": "Registrasi Obat"
             }
           }
         ],
@@ -137,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f1b780266bbce6d4",
@@ -243,10 +218,12 @@
   },
   "active": "d9565c9fbb513308",
   "lastOpenFiles": [
-    "Registrasi Obat.md",
     "Catatan Harian/2025-12-15.md",
-    "Catatan Harian/2025-11-26.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "Catatan Harian/2025-11-28.md",
+    "Registrasi Obat.md",
+    "Catatan Harian/2025-11-26.md",
     "Pasted image 20251126104104.png",
     "Catatan Harian/2025-11-21.md",
     "Catatan Harian/2025-11-20.md",
@@ -271,7 +248,6 @@
     "Catatan Harian/2025-10-16.md",
     "Catatan Harian/2025-10-15.md",
     "Catatan Harian/2025-10-14.md",
-    "Catatan Harian/2025-10-13.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",
