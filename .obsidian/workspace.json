@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2025-12-18.md",
+                "file": "Registrasi Obat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-18"
+              "title": "Registrasi Obat"
             }
           }
         ],
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f1b780266bbce6d4",
@@ -219,8 +218,8 @@
   },
   "active": "d9565c9fbb513308",
   "lastOpenFiles": [
-    "Catatan Harian/2025-12-15.md",
     "Catatan Harian/2025-12-18.md",
+    "Catatan Harian/2025-12-15.md",
     "Registrasi Obat.md",
     "Untitled 1.base",
     "Untitled.base",

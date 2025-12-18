@@ -43,4 +43,6 @@ Akun Evaluator
 	- List Status Obat
 	- List Paten Obat
 - Indikator saat Simpan Valiadasi Dokumen tidak hilang
+
+- Pembatalan pra registrasi
 - 
