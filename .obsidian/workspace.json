@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2026-01-13.md",
+                "file": "Pengembangan TTE 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-13"
+              "title": "Pengembangan TTE 2025"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f1b780266bbce6d4",
@@ -194,8 +193,12 @@
   },
   "active": "d9565c9fbb513308",
   "lastOpenFiles": [
-    "Catatan Harian/2026-01-07.md",
+    "TTE.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Catatan Harian/2026-01-14.md",
     "Catatan Harian/2026-01-13.md",
+    "Catatan Harian/2026-01-07.md",
     "Catatan Harian/2026-01-05.md",
     "Catatan Harian/2025-12-18.md",
     "Registrasi Obat.md",
@@ -223,8 +226,6 @@
     "Catatan Harian/2025-10-23.md",
     "Catatan Harian/2025-10-21.md",
     "Catatan Harian/2025-10-20.md",
-    "Catatan Harian/2025-10-09.md",
-    "Catatan Harian/2025-07-24.md",
     "Laporan",
     "Catatan Harian",
     "Rapat/Pasted image 20250526093603.png",

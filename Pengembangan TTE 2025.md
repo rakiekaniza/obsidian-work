@@ -12,6 +12,10 @@ Spesifikasi:
 	- Penyempurnaan dashboard
 		- Grafik transaksi gagal berdasarkan penyebab
 	- Penyempurnaan filtering dan pencarian
+	- Data masking 
+		- Transaksi TTE: link download
+		- Sertifikat Elektronik: NIK
+		- 
 	- Penyempurnaan modul pelaporan
 		- Laporan yang gagal termasuk pada proses di TTE Gateway, sebelum esign client
 	- Penyempurnaan manajemen aplikasi
