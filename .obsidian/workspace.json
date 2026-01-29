@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2026-01-27.md",
+                "file": "Catatan Harian/2026-01-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-27"
-            }
-          },
-          {
-            "id": "151d061f96928b3a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "2026-01-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,14 +191,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "151d061f96928b3a",
+  "active": "d9565c9fbb513308",
   "lastOpenFiles": [
-    "Catatan Harian/2026-01-21.md",
-    "Catatan Harian/2026-01-27.md",
-    "Pengembangan TTE 2025.md",
-    "TTE.md",
     "Catatan Harian/2026-01-15.md",
+    "Catatan Harian/2026-01-29.md",
     "Catatan Harian/2026-01-20.md",
+    "Catatan Harian/2026-01-21.md",
+    "Registrasi Obat.md",
+    "Pengembangan CekBPOM 2025.md",
+    "Pengembangan TTE 2025.md",
+    "Todos.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Catatan Harian/2026-01-27.md",
+    "TTE.md",
     "Untitled 3.base",
     "Untitled 2.base",
     "Catatan Harian/2026-01-14.md",
@@ -219,10 +212,7 @@
     "Catatan Harian/2026-01-07.md",
     "Catatan Harian/2026-01-05.md",
     "Catatan Harian/2025-12-18.md",
-    "Registrasi Obat.md",
     "Catatan Harian/2025-12-15.md",
-    "Untitled 1.base",
-    "Untitled.base",
     "Catatan Harian/2025-11-28.md",
     "Catatan Harian/2025-11-26.md",
     "Pasted image 20251126104104.png",
@@ -235,9 +225,6 @@
     "Catatan Harian/2025-11-11.md",
     "Catatan Harian/2025-11-10.md",
     "Catatan Harian/2025-11-07.md",
-    "Catatan Harian/2025-11-05.md",
-    "Catatan Harian/2025-11-03.md",
-    "Catatan Harian/2025-10-31.md",
     "Clippings",
     "Laporan",
     "Catatan Harian",
