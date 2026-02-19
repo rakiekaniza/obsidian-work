@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2026-02-18.md",
+                "file": "Todos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-18"
+              "title": "Todos"
             }
           }
         ],
@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +217,12 @@
   },
   "active": "37d87e6f802c7401",
   "lastOpenFiles": [
-    "Catatan Harian/2026-02-10.md",
+    "TTE.md",
+    "Todos.md",
+    "Catatan Harian/2026-02-19.md",
+    "Untitled 3.base",
     "Catatan Harian/2026-02-18.md",
+    "Catatan Harian/2026-02-10.md",
     "Catatan Harian/2026-01-30.md",
     "Penindakan.md",
     "Catatan Harian/2026-01-29.md",
@@ -229,12 +232,9 @@
     "Registrasi Obat.md",
     "Pengembangan CekBPOM 2025.md",
     "Pengembangan TTE 2025.md",
-    "Todos.md",
     "Untitled 1.base",
     "Untitled.base",
     "Catatan Harian/2026-01-27.md",
-    "TTE.md",
-    "Untitled 3.base",
     "Untitled 2.base",
     "Catatan Harian/2026-01-14.md",
     "Catatan Harian/2026-01-13.md",
@@ -247,9 +247,7 @@
     "Pasted image 20251126104104.png",
     "Catatan Harian/2025-11-21.md",
     "Catatan Harian/2025-11-20.md",
-    "Catatan Harian/2025-11-18.md",
     "Pasted image 20251114091541.png",
-    "conflict-files-obsidian-git.md",
     "Clippings",
     "Laporan",
     "Catatan Harian",
