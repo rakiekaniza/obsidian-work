@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todos.md",
+                "file": "Catatan Harian/2026-02-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Todos"
+              "title": "2026-02-23"
             }
           }
         ],
@@ -218,6 +218,7 @@
   "active": "37d87e6f802c7401",
   "lastOpenFiles": [
     "TTE.md",
+    "Catatan Harian/2026-02-23.md",
     "Todos.md",
     "Catatan Harian/2026-02-19.md",
     "Untitled 3.base",
