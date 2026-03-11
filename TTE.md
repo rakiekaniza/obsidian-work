@@ -6,3 +6,5 @@
 - UPM sang Integritas
 - Poin 1.1.1-1.1.5 harus didiseminasikan ke semua unit
 - sk bisa dibuatkan sebelum 30 april
+- Tampilkan data ikpu 2025 di bcc
+- 
