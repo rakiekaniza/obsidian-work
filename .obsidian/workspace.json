@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2026-03-26.md",
+                "file": "Catatan Harian/2026-01-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-26"
+              "title": "2026-01-07"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "agustus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,8 +218,8 @@
   },
   "active": "37d87e6f802c7401",
   "lastOpenFiles": [
-    "Catatan Harian/2026-03-25.md",
     "Catatan Harian/2026-03-26.md",
+    "Catatan Harian/2026-03-25.md",
     "Pengembangan TTE 2025.md",
     "Penindakan.md",
     "Rapat Lainnya.md",
