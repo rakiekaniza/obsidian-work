@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan Harian/2026-02-18.md",
+                "file": "Template/{{date}}.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-18"
-            }
-          },
-          {
-            "id": "37d87e6f802c7401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Catatan Harian/2026-09-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-22"
+              "title": "{{date}}"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,10 +190,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37d87e6f802c7401",
+  "active": "d9565c9fbb513308",
   "lastOpenFiles": [
-    "Catatan Harian/2026-04-02.md",
+    "Untitled.base",
+    "Rapat/EPSS 26 Mei 2025.md",
+    "Untitled.md",
+    "Catatan Harian/2026-02-18.md",
+    "test.md",
+    "Movie.base",
+    "TTE.md",
     "Catatan Harian/2026-09-22.md",
+    "Catatan Harian/2026-04-02.md",
     "Catatan Harian/2026-01-07.md",
     "Catatan Harian/2026-03-26.md",
     "Catatan Harian/2026-03-25.md",
@@ -238,15 +219,8 @@
     "Catatan Harian/2025-06-30.md",
     "Catatan Harian/2025-06-02.md",
     "Catatan Harian/2025-05-28.md",
-    "TTE.md",
-    "Catatan Harian/2026-03-10.md",
-    "Catatan Harian/2026-02-23.md",
-    "Catatan Harian/2026-02-19.md",
     "Untitled 3.base",
-    "Catatan Harian/2026-02-18.md",
-    "Catatan Harian/2026-02-10.md",
     "Untitled 1.base",
-    "Untitled.base",
     "Untitled 2.base",
     "Pasted image 20251126104104.png",
     "Pasted image 20251114091541.png",
